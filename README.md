@@ -40,7 +40,7 @@ Este projeto reúne 12 exercícios práticos desenvolvidos em C# como parte do T
 ---
 
 ## 📦 Estrutura do projeto
-
+```
 DR2-TP2-2025/
 ├── Exercicios/
 │   ├── Exercicio1.cs
@@ -50,7 +50,7 @@ DR2-TP2-2025/
 ├── Program.cs
 ├── DR2-TP2-2025.csproj
 └── README.md
-
+```
 ---
 
 ## 💡 Observações
