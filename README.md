@@ -1,7 +1,7 @@
 # DR2-TP2-2025  
 ### TP2 — Fundamentos de Desenvolvimento com C#
 
-Este projeto reúne 12 exercícios práticos desenvolvidos em C# como parte do TP2 da disciplina de Desenvolvimento de Sistemas.
+Este projeto reúne 12 exercícios práticos desenvolvidos em C# como parte do TP2.
 
 ---
 
